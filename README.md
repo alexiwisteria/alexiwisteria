@@ -1,17 +1,18 @@
 # Hi, I'm @alexiwisteria 👋
 
 ## About Me
-- 🎯 Interested in full stack engineering and QA, with a passion for building efficient, scalable, and user-friendly applications.
-- 🌱 Currently learning data structures, Next.js, and React to deepen my understanding of web development.
-- 🔍 Always learning and exploring new technologies to keep growing as a developer.
+- 🎯 **Full Stack & QA Enthusiast:** Passionate about building efficient, scalable, and user-friendly applications with a strong foundation in full stack engineering and quality assurance.
+- 🌱 **Current Focus:** Diving deep into **Next.js**, **React**, and **data structures** to enhance my web development expertise.
+- 🛠️ **Growth-Oriented:** Continuously exploring new technologies and frameworks to stay up-to-date and sharpen my skills as a developer.
 
-## How to Reach Me
-- 📫 Feel free to reach out via email: [alexiseblee@outlook.com](mailto:alexiseblee@outlook.com)
+## What I Bring
+- 🔍 **Problem Solver:** Skilled at identifying bottlenecks and finding innovative solutions, driven by a commitment to creating high-quality, seamless applications.
+- ⚙️ Quality Assurance Mindset: Naturally driven by a mindset of excellence, with some experience in testing strategies—including unit to ensure applications are exceptionally robust, resilient, and user-centric
+- 📈 **Scalability Mindset:** Focused on writing code that is both efficient and maintainable, with a keen eye for future growth and flexibility.
 
-Thanks for visiting! ✨
+## Let’s Connect
+- 📫 **Reach me by email:** [alexiseblee@outlook.com](mailto:alexiseblee@outlook.com)
+- 🌐 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alexisbinch/)
+- 👩‍💻 **Portfolio:** [Portfolio](https://alexiwisteria.github.io/Portfolio/)
 
-
-<!---
-alexiwisteria/alexiwisteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by! ✨ Let’s build something amazing together.
