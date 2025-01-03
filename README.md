@@ -1,5 +1,7 @@
 ## Hi, I'm Alex 👋
 
+---
+
 I'm on my way to becoming a **software or machine learning engineer**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
 
 - **Proficient in:** Java and JavaScript
@@ -7,8 +9,6 @@ I'm on my way to becoming a **software or machine learning engineer**, dedicated
 - **Interests:** Machine Learning, Backend Development, UI Quality Assurance, **Data Pipelines**
 
 I’m passionate about **creative problem-solving** and enjoy collaborating on projects that inspire growth and innovation. Explore my repositories, and let's connect to create something extraordinary!
-
----
 
 ## 🛠️ Skills and Technologies
 
