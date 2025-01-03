@@ -4,7 +4,7 @@ I'm on my way to becoming a **software or machine learning engineer**, dedicated
 
 - **Proficient in:** Java and JavaScript
 - **Currently learning:** Python
-- **Interests:** Machine Learning, Backend Development, UI Quality Assurance, **Data Pipelines**
+- **Interests:** Machine Learning, Backend Development, UI Quality Assurance, Data Pipelines
 
 I’m passionate about **creative problem-solving** and enjoy collaborating on projects that inspire growth and innovation. Explore my repositories, and let's connect to create something extraordinary!
 
