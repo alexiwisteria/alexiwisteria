@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+## Hi, I'm Alex 👋
 
 I'm on my way to becoming a **software or machine learning engineer**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
 
@@ -25,7 +25,7 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - MySQL 💾
 - Git 🔗
 - JUnit 🧪
-- **Maven** 🔧
+- Maven 🔧
 
 ---
 
@@ -33,6 +33,7 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 
 - **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon!
 - **Enterprise Architecture**: Part of a team designing **scalable enterprise solutions** adhering to best practices and architectural excellence.
+- **Smart CLI Configuration Generator**: Creating a tool to simplify and automate the generation of configuration files, leveraging AI to enhance developer workflows.
 
 ---
 
