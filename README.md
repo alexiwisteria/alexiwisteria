@@ -4,7 +4,7 @@ I'm on my way to becoming a **software or machine learning engineer**, dedicated
 
 - **Proficient in:** Java and JavaScript
 - **Currently learning:** Python
-- **Interests:** Machine Learning, Backend Development, UI Quality Assurance
+- **Interests:** Machine Learning, Backend Development, UI Quality Assurance, **Data Pipelines**
 
 I’m passionate about **creative problem-solving** and enjoy collaborating on projects that inspire growth and innovation. Explore my repositories, and let's connect to create something extraordinary!
 
@@ -39,6 +39,7 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 
 - Develop impactful projects blending **creativity** with **innovation**.
 - Deepen understanding of **machine learning algorithms** and their practical uses.
+- **Master data pipeline technologies** for efficient data management.
 - Contribute to **open-source projects** for positive community impact.
 
 ---
