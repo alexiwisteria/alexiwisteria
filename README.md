@@ -1,18 +1,51 @@
-# Hi, I'm @alexiwisteria 👋
+# Hi, I'm Alex 👋
 
-## About Me
-- 🎯 **Full Stack & QA Enthusiast:** Passionate about building efficient, scalable, and user-friendly applications with a strong foundation in full stack engineering and quality assurance.
-- 🌱 **Current Focus:** Diving deep into **Next.js**, **React**, and **data structures** to enhance my web development expertise.
-- 🛠️ **Growth-Oriented:** Continuously exploring new technologies and frameworks to stay up-to-date and sharpen my skills as a developer.
+I'm on my way to becoming a **software or machine learning engineer**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
 
-## What I Bring
-- 🔍 **Problem Solver:** Skilled at identifying bottlenecks and finding innovative solutions, driven by a commitment to creating high-quality, seamless applications.
-- ⚙️ Quality Assurance Mindset: Naturally driven by a mindset of excellence, with some experience in testing strategies—including unit to ensure applications are exceptionally robust, resilient, and user-centric
-- 📈 **Scalability Mindset:** Focused on writing code that is both efficient and maintainable, with a keen eye for future growth and flexibility.
+- **Proficient in:** Java and JavaScript
+- **Currently learning:** Python
+- **Interests:** Machine Learning, Backend Development, UI Quality Assurance
 
-## Let’s Connect
-- 📫 **Reach me by email:** [alexiseblee@outlook.com](mailto:alexiseblee@outlook.com)
-- 🌐 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alexisbinch/)
-- 👩‍💻 **Portfolio:** [Portfolio](https://alexiwisteria.github.io/Portfolio/)
+I’m passionate about **creative problem-solving** and enjoy collaborating on projects that inspire growth and innovation. Explore my repositories, and let's connect to create something extraordinary!
 
-Thanks for stopping by! ✨ Let’s build something amazing together.
+---
+
+## 🛠️ Skills and Technologies
+
+**Languages:**  
+- Java 🟠
+- Python 🐍
+- JavaScript 🌐
+
+**Frameworks & Libraries:**  
+- React ⚛️
+- Next.js 🚀
+
+**Database & Tools:**  
+- MySQL 💾
+- Git 🔗
+- JUnit 🧪
+
+---
+
+## 🌟 Current Projects
+
+- **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon!
+- **Enterprise Architecture**: Part of a team designing **scalable enterprise solutions** adhering to best practices and architectural excellence.
+
+---
+
+## 🎯 Goals
+
+- Develop impactful projects blending **creativity** with **innovation**.
+- Deepen understanding of **machine learning algorithms** and their practical uses.
+- Contribute to **open-source projects** for positive community impact.
+
+---
+
+## 📫 Connect with Me
+
+- [Portfolio](https://alexiwisteria.github.io/Portfolio/) 🌐
+- [LinkedIn](https://www.linkedin.com/in/alexisbinchlee/) 🤝
+
+![Cat at a computer](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
