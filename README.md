@@ -25,6 +25,7 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - MySQL 💾
 - Git 🔗
 - JUnit 🧪
+- **Maven** 🔧
 
 ---
 
