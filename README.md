@@ -25,15 +25,11 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - JUnit 🧪
 - Maven 🔧
 
----
-
 ## 🌟 Current Projects
 
 - **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon!
 - **Enterprise Architecture**: Part of a team designing **scalable enterprise solutions** adhering to best practices and architectural excellence.
 - **Smart CLI Configuration Generator**: Creating a tool to simplify and automate the generation of configuration files, leveraging AI to enhance developer workflows.
-
----
 
 ## 🎯 Goals
 
@@ -41,8 +37,6 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - Deepen understanding of **machine learning algorithms** and their practical uses.
 - **Master data pipeline technologies** for efficient data management.
 - Contribute to **open-source projects** for positive community impact.
-
----
 
 ## 📫 Connect with Me
 
