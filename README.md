@@ -43,4 +43,5 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - [Portfolio](https://alexiwisteria.github.io/Portfolio/) 🌐
 - [LinkedIn](https://www.linkedin.com/in/alexisbinchlee/) 🤝
 
+
 ![Cat at a computer](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
