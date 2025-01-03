@@ -1,7 +1,5 @@
 ## Hi, I'm Alex 👋
 
----
-
 I'm on my way to becoming a **software or machine learning engineer**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
 
 - **Proficient in:** Java and JavaScript
