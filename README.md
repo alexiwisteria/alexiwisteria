@@ -31,6 +31,10 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - **Enterprise Architecture**: Part of a team designing **scalable enterprise solutions** adhering to best practices and architectural excellence.
 - **Smart CLI Configuration Generator**: Creating a tool to simplify and automate the generation of configuration files, leveraging AI to enhance developer workflows.
 
+## 🌍 Open Source Contributions  
+
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**: Enhanced the curriculum by refining a CSS quiz question to ensure accuracy and clarity, improving the learning experience for users.
+
 ## 🎯 Goals
 
 - Develop impactful projects blending **creativity** with **innovation**.
