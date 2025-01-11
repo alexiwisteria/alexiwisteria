@@ -26,11 +26,8 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 - Maven 🔧
 
 ## 🌟 Current Projects
-
-- **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon!
-- **Enterprise Architecture**: Part of a team designing **scalable enterprise solutions** adhering to best practices and architectural excellence.
-- **Smart CLI Configuration Generator**: Creating a tool to simplify and automate the generation of configuration files, leveraging AI to enhance developer workflows.
-Here's the revised version in the present tense:  
+- **AIOps**: Leading a team-focused AI project utilizing OpenAI's ChatGPT API to explore data pipelines, model optimization, and prompt engineering, with a focus on developing an automated grading system. 
+- **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon! 
 - **Volunteer Project - Church Announcement Page**: Currently designing and developing a dynamic announcement webpage using **Next.js** for the Relief Society of a Church of Jesus Christ congregation in Arizona. This project aims to streamline communication and enhance accessibility for church members.
   
 ## 🌍 Open Source Contributions  
