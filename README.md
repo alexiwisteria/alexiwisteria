@@ -27,6 +27,7 @@ I’m passionate about **creative problem-solving** and enjoy collaborating on p
 
 ## 🌟 Current Projects
 - **AIOps**: Leading a team-focused AI project utilizing OpenAI's ChatGPT API to explore data pipelines, model optimization, and prompt engineering, with a focus on developing an automated grading system. 
+- **Basic HTML Email with Mustache Markup Language**: Creating a professional HTML email template using Mustache for our ticketing system in TeamDynamix. This project supports work-related tasks by streamlining ticket response processes and ensuring consistent communication.
 - **AI Innovation**: Working on a **confidential AI-based project** employing advanced machine learning to address real-world issues. Updates coming soon! 
 - **Volunteer Project - Church Announcement Page**: Currently designing and developing a dynamic announcement webpage using **Next.js** for the Relief Society of a Church of Jesus Christ congregation in Arizona. This project aims to streamline communication and enhance accessibility for church members.
   
