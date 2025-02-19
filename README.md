@@ -1,31 +1,30 @@
 ## Hi, I'm Alex 👋
 
-I'm on my way to becoming a **software or machine learning engineer**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
+I'm on my way to becoming a **Data Infrastructure and AI Solutions Architect**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
 
 - **Proficient in:** Java and JavaScript
 - **Currently learning:** Python
 - **Interests:** Backend Development, Data Engineering, Machine Learning
 
-I’m passionate about **creative problem-solving** and enjoy collaborating on projects that inspire growth and innovation. Explore my repositories, and let's connect to create something extraordinary!
-
 ## 🛠️ Skills and Technologies
 
-**Languages:**  
+**Proficient:**  
 - Java 🟠
-- Python 🐍
 - JavaScript 🌐
-
-**Frameworks & Libraries:**  
-- React ⚛️
 - Next.js 🚀
-
-**Database & Tools:**  
-- MySQL 💾
 - Git 🔗
+
+**Emerging:**
+
+- Python 🐍
+- React ⚛️
+- SQL 💾
 - JUnit 🧪
 - Maven 🔧
+- MongoDB
 
 ## 🌟 Current Projects
+
 - **AIOps**: Leading a team-focused AI project utilizing OpenAI's ChatGPT API to explore data pipelines, model optimization, and prompt engineering, with a focus on developing an automated grading system. 
   
 ## 🌍 Open Source Contributions  
