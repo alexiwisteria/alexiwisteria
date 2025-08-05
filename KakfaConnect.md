@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Kafka Connect] --> B[Core Components]
     A --> C[Architecture]
@@ -19,3 +20,4 @@ graph TD
     D --> O[Scalability]
     D --> P[Fault Tolerance]
     D --> Q[Schema Support]
+```
