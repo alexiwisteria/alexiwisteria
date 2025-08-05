@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
     A[Kafka Connect] --> B[Core Components]
     A --> C[Architecture]
     A --> D[Key Features]
