@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-I'm an emerging Software Engineer kickin' it in Salt Lake City, UT. With a solid grip on software development and full-stack systems, I’m all about nailing the details and spreading good user vibes through comprehensive API integrations and crafting thoughtful frontend and backend components. I’m super stoked to dive deeper into machine learning and software architecture to create impactful, solid solutions.
+I'm an emerging Software Engineer kickin' it in Salt Lake City, UT. With a strong foundation in software development and full-stack systems, I'm passionate about nailing the details and delivering awesome user experiences through seamless API integrations and carefully crafted frontend and backend components. I'm super stoked to dive deeper into machine learning and software architecture to build impactful, robust solutions.
 
 Currently pursuing a Bachelor of Science in Software Engineering at Ensign College (expected graduation: April 2026).
 
