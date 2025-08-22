@@ -1,47 +1,82 @@
-## Hi, I'm Alex 👋
+# Hi, I'm Alex 👋
 
-I'm on my way to becoming a **Data Infrastructure and AI Solutions Architect**, dedicated to solving complex problems and creating innovative solutions through clean, efficient code.
+I'm an emerging Software Engineer kickin' it in Salt Lake City, UT. With a solid grip on software development and full-stack systems, I’m all about nailing the details and spreading good user vibes through comprehensive API integrations and crafting thoughtful frontend and backend components. I’m super stoked to dive deeper into machine learning and software architecture to create impactful, solid solutions.
 
-- **Proficient in:** Java and JavaScript
-- **Currently learning:** Python
-- **Interests:** Backend Development, Data Engineering, Machine Learning
+Currently pursuing a Bachelor of Science in Software Engineering at Ensign College (expected graduation: April 2026).
 
-## 🛠️ Skills and Technologies
+## Skills 🛠️
 
-**Proficient:**  
-- Java 🟠
-- JavaScript 🌐
-- Next.js 🚀
-- Git 🔗
+### Proficient
+- Code Analysis & Debugging
+- API Integration
+- Full-Stack Development
+- Vercel
 
-**Emerging:**
+### Emerging
+- TypeScript
+- SQL 
+- Java
+- JavaScript
+- Python
+- Data Structures
+- React
+- Next.js
+- Git
 
-- Python 🐍
-- React ⚛️
-- SQL 💾
-- JUnit 🧪
-- Maven 🔧
-- MongoDB
+### Soft Skills
+- Effective Communicator
+- Self-Motivated
+- Curious
+- Problem Solver
+- Teachable
 
-## 🌟 Current Projects
+## Professional Experience 💼
 
-- **AIOps**: Leading a team-focused AI project utilizing OpenAI's ChatGPT API to explore data pipelines, model optimization, and prompt engineering, with a focus on developing an automated grading system. 
-  
-## 🌍 Open Source Contributions  
+### Student Software Engineer  
+Ensign College, Salt Lake City, UT  
+*April 2025 - Present*  
+- Developed a Proof of Concept AI Autograder that integrates with Canvas LMS to retrieve text submissions, leverages OpenAI for grading against a rubric, and provides actionable feedback, complete with a user interface and OAuth authentication for secure login, resulting in improved grading efficiency.  
+- Supported the Software Engineering Program Chair by contributing to a full-stack autograding program for beginner student code, utilizing JavaScript, TypeScript, and Python, which enhanced the accuracy and efficiency of student assessments.  
+- Managed and debugged API integrations with Canvas API, GitHub API, and GitHub Classroom to ensure seamless functionality and accurate grading processes, resulting in improved system reliability and user satisfaction.  
+- Developed and maintained both frontend and backend components of the autograding system, enhancing program efficiency and user experience, which led to faster grading times and improved user feedback.  
+- Provided technical assistance to students, guided them through assignments, and troubleshot coding issues to foster skill development, resulting in increased student confidence and improved coding skills.  
+- Developed and implemented a scalable architecture for AI autograding student code that provides automatic feedback.
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**: Enhanced the curriculum by refining a CSS quiz question to ensure accuracy and clarity, improving the learning experience for users.
+### Help Desk Technician  
+Ensign College, Salt Lake City, UT  
+*January 2024 - April 2025*  
+- Provided QA support and troubleshooting during a major WiFi migration, minimizing disruptions.  
+- Successfully resolved technical issues with ServiceNow and TeamDynamix, leading to high ticket resolution rates and improved user satisfaction. 
+- Collaborated with IT teams to document network changes and deliver ongoing support.
 
-## 🎯 Goals
+### Team Lead  
+Research and Business Development Center, Idaho, United States  
+*April 2020 - July 2020*  
+- Led a team by sharing knowledge, fostering collaboration, and implementing efficient workflows.  
+- Enhanced productivity and ensured a successful transition to a data analytics role by self-learning advanced Excel and data analysis.  
+- Streamlined data processing and insight generation by creating an Excel-based workflow that delivered actionable insights, enhancing presentation impact for a startup within two months.
 
-- Develop impactful projects blending **creativity** with **innovation**.
-- Deepen understanding of **machine learning algorithms** and their practical uses.
-- **Master data pipeline technologies** for efficient data management.
-- Contribute to **open-source projects** for positive community impact.
+## Education 🎓
 
-## 📫 Connect with Me
+### Bachelor of Science, Software Engineering  
+Ensign College, Salt Lake City, UT  
+*January 2025 - April 2026*  
+- Coursework: Introduction to Programming, Data Structures, Object Oriented Programming, Web Development, Discrete Math, Technical Writing, Agile Project Management, Statistics, Full-Stack Development, Advanced Full-Stack Development.
 
-- [Portfolio](https://dev-portfolio-one-sand.vercel.app/) 🌐
-- [LinkedIn](https://www.linkedin.com/in/alexisbinchlee/) 🤝
+## Extracurricular Activities 🌟
 
+### Coding Club Member  
+*August 2025 - Present*  
+- Designated PR reviewer.
 
-![Cat at a computer](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+## Projects 🚀
+
+### GitGrade  
+- A project focused on autograding student code, integrating AI for feedback and efficiency. (Details in experience section above.)
+
+## Connect with Me 📫
+
+- 📧 Email: alexiseblee@outlook.com  
+- 🔗 LinkedIn: [alexisbinchlee](https://www.linkedin.com/in/alexisbinchlee/) 
+
+Feel free to reach out if you'd like to collaborate on projects or discuss tech! 😊
